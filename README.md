@@ -14,3 +14,9 @@ Connect is a vibrant and engaging social media platform designed to bring people
 2. **Install packages and run migrations**:
    - Install all packages and dependencys.
    - There you go.
+
+<p align="center"> Connect Images </p>
+
+![2024-08-13_10 14 36](https://firebasestorage.googleapis.com/v0/b/instagram-c1caa.appspot.com/o/1727825408512-connect3.png?alt=media&token=1fb03bc5-21f1-45d6-958b-25be3554a9c5)
+![Screenshot 2024-08-13 084510](https://firebasestorage.googleapis.com/v0/b/instagram-c1caa.appspot.com/o/1727825394059-connect2.png?alt=media&token=cf1c7c39-3326-4c15-909a-e290363bf006)
+![Screenshot 2024-08-13 084510](https://firebasestorage.googleapis.com/v0/b/instagram-c1caa.appspot.com/o/1727825370260-connect1.png?alt=media&token=2479de3f-0b65-4e35-9e02-335f0cae3023)
